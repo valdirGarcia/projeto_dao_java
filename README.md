@@ -2,7 +2,7 @@
 
 ## Projeto empregando o Padrão DAO e Repository, juntamente com pacotes services, para criar uma agenda de contato.
 
-<p>Nesse projeto, com intuito de trabalhar padrões de projetos há:</p> <br>
+<p>Projeto realizado na disciplina técnicas de programação (fatec), com intuito de trabalhar padrões de projetos e conceitos como:</p> <br>
 
 <ul>
   <li>
